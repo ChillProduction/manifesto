@@ -1,0 +1,59 @@
+.toJSON{
+    display: none;
+}
+*{
+	font-family: 'Noto Sans TC', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: rgb(55, 219, 33);
+}
+.d1{
+	background-color: rgb(52, 241, 255);
+	margin: 50px;
+	width: 80%;
+	font-size: 15pt;
+	color: rgb(0, 0, 0);
+	padding: 10px 50px 50px 50px;
+
+}
+.title{
+	background-color: rgb(207, 0, 248);
+	font-size: 35pt;
+	text-align: center;
+	color: rgb(0, 0, 0); 
+}
+.f1{
+	background-color: rgb(243, 229, 34);
+	font-size: 18pt;
+}
+
+.s1{
+	font-size: 15pt;
+	background-color: rgb(255, 255, 255);
+	color: rgb(71, 71, 71);
+	padding: 2px;
+	margin: 2pt;
+	border-color: rgb(136, 123, 123);
+	border-block: 2pt;
+}
+.footer{
+	background-color: rgb(219, 139, 64);
+	text-align: right;
+}
+.form{
+	background-color: rgb(223, 33, 160);
+	text-align: right;
+	font-size: 15pt;
+}
+.button{
+	color: rgb(0, 0, 0);
+  	padding: 2px 8px;
+  	text-align: center;
+ 	font-size: 14px;
+  	margin: 4px;
+}
+.input{
+	width: 50px;
+}
